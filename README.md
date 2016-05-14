@@ -1,1 +1,1 @@
-# sample_app
+# Ruby on Railsチュートリアル: サンプルアプリケーション
