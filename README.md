@@ -1,1 +1,1 @@
-# Ruby on Railsチュートリアル: サンプルアプリケーション
+# Ruby on Railsチュートリアル
